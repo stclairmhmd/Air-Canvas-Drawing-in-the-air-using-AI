@@ -2,7 +2,7 @@
 <p align="center"> 
   <img src="Template/handgesture detection.gif" alt="img Logo" >
 </p>
-<h1 align="center"> Air Canvas Using AI </h1> 
+<h1 align="center"> Air-Canvas-Drawing-In-Air-Using-AI </h1> 
 
 </br>
 
