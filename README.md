@@ -52,11 +52,6 @@ The following open source packages are used in this project:
 * scipy
 * PyQt 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- DATASET -->
 <h2 id="dataset"> :floppy_disk: Dataset</h2>
