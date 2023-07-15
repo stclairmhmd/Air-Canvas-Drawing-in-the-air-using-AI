@@ -54,26 +54,6 @@ The following open source packages are used in this project:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- :paw_prints:-->
-<!-- FOLDER STRUCTURE -->
-<h2 id="folder-structure"> :cactus: Folder Structure</h2>
-
-- air_canvas/
-  - main.py                    
-  - gesture_detection/
-    - hand_tracking.py         
-    - gesture_recognition.py    
-  - canvas/
-    - canvas.py                
-  - utils/
-    - helper_functions.py      
-  - models/
-    - hand_tracking_model.pb   
-    - gesture_model.pb         
-  - resources/
-    - fonts/                   
-    - images/                  
-  - README.md                  
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
