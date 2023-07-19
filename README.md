@@ -60,7 +60,7 @@ The following open source packages are used in this project:
  <h2> MNIST Dataset</h2>
 
 * The dataset is well-structured and easy to understand and work with.
-* The dataset consists of grayscale images with a fixed size of (28, 28).
+* The dataset consists of grayscale images with a fixed size of (48, 48).
 * The dataset was divided into training, testing, and validation sets.
 * The training set contains 50,000 images, the testing set has 10,000 images, and the validation set has 10,000 images.
 * The dataset allows for faster model training and iteration due to its relatively small size.
