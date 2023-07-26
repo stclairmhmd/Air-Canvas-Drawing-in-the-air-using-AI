@@ -110,6 +110,12 @@ Here i'm using a hand gesture detection.for this project does not require a sepa
 4. To overcome hardware issues encountered while using MediaPipe, we adopted a traceback method, resulting in a significant improvement in the output. Previously, the drawing appeared as a dotted line due to interruptions caused by hardware limitations. <br>
 5. With the traceback approach, we have successfully achieved a continuous line image, providing users with a smoother and more seamless drawing experience. This enhancement ensures that hand gestures are accurately tracked and translated into fluid strokes on the virtual canvas, enhancing the overall user interaction and creativity in the air canvas system.<br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- REFERENCES -->
+<h2 id="references"> :books: References</h2>
+
+
 
 
 
