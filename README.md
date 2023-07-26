@@ -98,19 +98,7 @@ Here i'm using a hand gesture detection.for this project does not require a sepa
 
 <br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- ROADMAP -->
-<h2 id="roadmap"> :dart: Roadmap</h2>
-
-  The goals of this project include the following:
-<br><br>
-
-1. Evaluate the Drawing in air model using the MNIST dataset and testing on VGG19. our accuracy was  satisfactory, then we added 6 more layers to increase our accuracy
-
-
-
-</p>
 
 
 
