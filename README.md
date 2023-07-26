@@ -120,8 +120,8 @@ Prof. Hemlata A. Shinde, Shravani M. Jagtap, Anushka A.Kalpund, Pranita B. More,
 Department of Computer Engineering,
 AISSMS Polytechnic,
 Pune, India
-Virtual Air Canvas Application using OpenCV and Numpy in Python, Asst Prof.Jahnavi S,K Sai Sumanth Reddy, Abhishek R, Abhinandan Heggde [2]Lakshmi Prashanth Reddy,Dayananda Sagar Academy of Technology and Management,Bangalore,Karnataka,INDIA
-Air Canvas: Draw in Air, Sayli More1, Prachi Mhatre2, Shruti Pakhare3, Surekha Khot4, Student, Department of Information Technology Engineering, A.C Patil College of Engineering, Navi Mumbai, India
+Virtual Air Canvas Application using OpenCV and Numpy in Python, Asst Prof.Jahnavi S,K Sai Sumanth Reddy, Abhishek R, Abhinandan Heggde [2]Lakshmi Prashanth Reddy,Dayananda Sagar Academy of Technology and Management,Bangalore,Karnataka,INDIA.<br>
+Air Canvas: Draw in Air, Sayli More1, Prachi Mhatre2, Shruti Pakhare3, Surekha Khot4, Student, Department of Information Technology Engineering, A.C Patil College of Engineering, Navi Mumbai, India.<br>
 
 
 
