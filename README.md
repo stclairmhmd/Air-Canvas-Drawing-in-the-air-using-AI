@@ -56,7 +56,7 @@ The following open source packages are used in this project:
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
-    Emotion-Recognition-Capston
+  Air-Canvas-Drawing-in-the-air
     .
     ├── Models
     │   ├── MNIST .ipynb
