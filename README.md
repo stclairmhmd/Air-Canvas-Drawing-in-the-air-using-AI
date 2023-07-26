@@ -97,6 +97,20 @@ Here i'm using a hand gesture detection.for this project does not require a sepa
 * The dataset includes a variety of hand shapes, sizes, and orientations to account for the natural variability in human hand appearances and postures.
 
 <br>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ROADMAP -->
+<h2 id="roadmap"> :dart: Roadmap</h2>
+
+<p align="justify"> 
+  Initially We had two models: one using VGG with ImageNet for facial recognition and another using CNN for audio recognition. There was a flask app that was genrating emotions by uploading the video onto a webpage.<br>
+  The goals of this project include the following:
+<br><br>
+1. After evaluating the drawing air model using the MNIST dataset and testing on VGG19, we found the accuracy to be very satisfactory. Subsequently, we further improved the accuracy by adding six more layers to the model.<br>
+2. Develop a drawing recognition model on MNIST and a hand gesture detection model on the custom dataset, then integrate them to create a real-time system for detecting hand gestures and recognizing drawing actions.<br>
+3. Implement real-time visual feedback for users as they interact with the air canvas system. This could include displaying the drawing trail, cursor, or gesture recognition results.<br>
+4. To overcome hardware issues encountered while using MediaPipe, we adopted a traceback method, resulting in a significant improvement in the output. Previously, the drawing appeared as a dotted line due to interruptions caused by hardware limitations. <br>
+5. With the traceback approach, we have successfully achieved a continuous line image, providing users with a smoother and more seamless drawing experience. This enhancement ensures that hand gestures are accurately tracked and translated into fluid strokes on the virtual canvas, enhancing the overall user interaction and creativity in the air canvas system.<br>
 
 
 
