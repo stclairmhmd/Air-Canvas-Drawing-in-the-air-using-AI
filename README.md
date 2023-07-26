@@ -49,6 +49,23 @@ The following open source packages are used in this project:
 * pathlib
 * Mediapipe
 * PyTorch
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- :paw_prints:-->
+<!-- FOLDER STRUCTURE -->
+<h2 id="folder-structure"> :cactus: Folder Structure</h2>
+
+    Emotion-Recognition-Capston
+    .
+    ├── Models
+    │   ├── MNIST .ipynb
+    │   └── ASL.ipynb
+    │   └── Final
+    ├── Dataset 
+    │   └── MNIST
+    │   └── subsample
+    ├── README
   
    
 <!-- DATASET -->
