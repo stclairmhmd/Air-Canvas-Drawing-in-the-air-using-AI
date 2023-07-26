@@ -115,13 +115,9 @@ Here i'm using a hand gesture detection.for this project does not require a sepa
 
 <!-- REFERENCES -->
 <h2 id="references"> :books: References</h2> 
-Air Canvas: Drawing in Air using AI
-Prof. Hemlata A. Shinde, Shravani M. Jagtap, Anushka A.Kalpund, Pranita B. More, Ayushi A. Parkale
-Department of Computer Engineering,
-AISSMS Polytechnic,
-Pune, India
-Virtual Air Canvas Application using OpenCV and Numpy in Python, Asst Prof.Jahnavi S,K Sai Sumanth Reddy, Abhishek R, Abhinandan Heggde [2]Lakshmi Prashanth Reddy,Dayananda Sagar Academy of Technology and Management,Bangalore,Karnataka,INDIA.<br>
-Air Canvas: Draw in Air, Sayli More1, Prachi Mhatre2, Shruti Pakhare3, Surekha Khot4, Student, Department of Information Technology Engineering, A.C Patil College of Engineering, Navi Mumbai, India.<br>
+1) https://ijsret.com/wp-content/uploads/2022/03/IJSRET_V8_issue2_290.pdf.<br>
+2) https://ijariie.com/AdminUploadPdf/Air_Canvas_Application_using_OpenCV_and_Numpy_in_Python_ijariie17660.pdf.<br>
+3) https://www.irjet.net/archives/V9/i2/IRJET-V9I2183.pdf. <br>
 
 
 
