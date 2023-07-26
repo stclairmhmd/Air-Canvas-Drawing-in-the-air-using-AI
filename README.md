@@ -49,10 +49,8 @@ The following open source packages are used in this project:
 * pathlib
 * Mediapipe
 * PyTorch
-* scipy
-* PyQt 
-
-
+  
+   
 <!-- DATASET -->
 <h2 id="dataset"> :floppy_disk: Dataset</h2>
 <p> 
