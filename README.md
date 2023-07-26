@@ -113,7 +113,10 @@ Here i'm using a hand gesture detection.for this project does not require a sepa
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- REFERENCES -->
-<h2 id="references"> :books: References</h2>
+<h2 id="references"> :books: References</h2> 
+https://ijsret.com/wp-content/uploads/2022/03/IJSRET_V8_issue2_290.pdf
+https://ijariie.com/AdminUploadPdf/Air_Canvas_Application_using_OpenCV_and_Numpy_in_Python_ijariie17660.pdf
+https://www.irjet.net/archives/V9/i2/IRJET-V9I2183.pdf
 
 
 
