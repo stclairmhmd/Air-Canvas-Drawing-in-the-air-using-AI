@@ -97,13 +97,11 @@ Here i'm using a hand gesture detection.for this project does not require a sepa
 * The dataset includes a variety of hand shapes, sizes, and orientations to account for the natural variability in human hand appearances and postures.
 
 <br>
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <!-- ROADMAP -->
 <h2 id="roadmap"> :dart: Roadmap</h2>
 
 <p align="justify"> 
-  Initially We had two models: one using VGG with ImageNet for facial recognition and another using CNN for audio recognition. There was a flask app that was genrating emotions by uploading the video onto a webpage.<br>
+  
   The goals of this project include the following:
 <br><br>
 1. After evaluating the drawing air model using the MNIST dataset and testing on VGG19, we found the accuracy to be very satisfactory. Subsequently, we further improved the accuracy by adding six more layers to the model.<br>
