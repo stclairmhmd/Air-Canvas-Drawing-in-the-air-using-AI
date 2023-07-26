@@ -118,6 +118,9 @@ Here i'm using a hand gesture detection.for this project does not require a sepa
 1) https://ijsret.com/wp-content/uploads/2022/03/IJSRET_V8_issue2_290.pdf.<br>
 2) https://ijariie.com/AdminUploadPdf/Air_Canvas_Application_using_OpenCV_and_Numpy_in_Python_ijariie17660.pdf.<br>
 3) https://www.irjet.net/archives/V9/i2/IRJET-V9I2183.pdf. <br>
+4) MNIST Dataset : https://www.kaggle.com/datasets/avnishnish/mnist-original. <br>
+5) Gesture dataset: https://www.kaggle.com/datasets/rayeed045/american-sign-language-digit-dataset. <br>
+
 
 
 
