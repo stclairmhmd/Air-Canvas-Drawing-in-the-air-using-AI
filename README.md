@@ -67,6 +67,7 @@ The following open source packages are used in this project:
     ├── Dataset 
     │   └── MNIST
     │   └── subsample
+    ├── Visualization on different colors
     ├── README
   
    
