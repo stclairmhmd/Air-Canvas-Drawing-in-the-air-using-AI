@@ -50,13 +50,15 @@ The following open source packages are used in this project:
 * Mediapipe
 * PyTorch
 
+
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
-  Air-Canvas-Drawing-in-the-air
+    Air-Canvas-Drawing-In-Air-Capston
     .
     ├── Models
     │   ├── MNIST .ipynb
